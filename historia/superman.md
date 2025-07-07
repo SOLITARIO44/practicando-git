@@ -1,0 +1,3 @@
+# Superman
+
+Superman es originario del planeta Krypton, donde nació bajo el nombre de Kal-El. Cuando su mundo estaba a punto de ser destruido, sus padres lo enviaron en una nave espacial hacia la Tierra, donde fue adoptado por los Kent y criado como Clark Kent en Smallville. Al crecer, descubrió que poseía poderes extraordinarios como superfuerza, visión de rayos X y la capacidad de volar, los cuales usa para proteger a la humanidad como Superman, convirtiéndose en un símbolo de esperanza y justicia.
