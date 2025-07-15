@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros
 4. Necesitamos más comida
 5. Hacer un reconocimiento del terreno
+6. Investigar los planes de Deadshot
