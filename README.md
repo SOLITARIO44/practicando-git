@@ -8,3 +8,7 @@ Nisi aliquip duis dolore elit veniam pariatur pariatur aute aliquip nisi commodo
 
 ### actualizado desde github
 estamos en prueba de github editado desde github
+
+
+## agregando full
+intentando en el falloo 1.2.3
